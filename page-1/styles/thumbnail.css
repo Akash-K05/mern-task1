@@ -1,0 +1,395 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 151.2rem;
+}.thumbnail-LfN {
+  box-sizing: border-box;
+  padding: 3.1rem 12rem 29.7rem 12.1rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(0, 0, 0, 0.3700000048);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/thumbnail-bg.png');
+}
+.thumbnail-LfN .frame-1-q6L {
+  margin-bottom: 12.9rem;
+  width: 100%;
+  height: 6.1rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.thumbnail-LfN .frame-1-q6L .group-1-kUC {
+  margin-right: 59.2426rem;
+  width: 14.1574rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.thumbnail-LfN .frame-1-q6L .group-1-kUC .elite-Hyv {
+  width: 4.9rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 1.3556rem;
+  font-size: 2.7111rem;
+  font-weight: 400;
+  line-height: 1.445;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.thumbnail-LfN .frame-1-q6L .group-1-kUC .trips-ay2 {
+  width: 9.3rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 4.8574rem;
+  top: 0;
+  font-size: 4.0667rem;
+  font-weight: 600;
+  line-height: 1.495;
+  color: #fa461f;
+  font-family: Kanit, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.thumbnail-LfN .frame-1-q6L .frame-4-UoW {
+  margin: 0.8rem 0;
+  height: calc(100% - 1.6rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.thumbnail-LfN .frame-1-q6L .frame-4-UoW .frame-2-RCx {
+  margin: 0.6rem 4.1rem 0.5rem 0rem;
+  height: calc(100% - 1.1rem);
+  display: flex;
+  column-gap: 3.8rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.thumbnail-LfN .frame-1-q6L .frame-4-UoW .frame-2-RCx .home-Lap {
+  font-size: 2.3rem;
+  font-weight: 400;
+  line-height: 1.445;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.thumbnail-LfN .frame-1-q6L .frame-4-UoW .frame-2-RCx .search-GUU {
+  font-size: 2.3rem;
+  font-weight: 400;
+  line-height: 1.445;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.thumbnail-LfN .frame-1-q6L .frame-4-UoW .frame-2-RCx .guide-Qqa {
+  font-size: 2.3rem;
+  font-weight: 400;
+  line-height: 1.445;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.thumbnail-LfN .frame-1-q6L .frame-4-UoW .frame-2-RCx .blog-AJx {
+  font-size: 2.3rem;
+  font-weight: 400;
+  line-height: 1.445;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.thumbnail-LfN .frame-1-q6L .frame-4-UoW .frame-3-uXS {
+  width: 15.1rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  font-size: 2.3rem;
+  font-weight: 400;
+  line-height: 1.445;
+  color: #fa461f;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #fa461f;
+  box-sizing: border-box;
+  border-radius: 3.5rem;
+  flex-shrink: 0;
+}
+.thumbnail-LfN .frame-5-AiG {
+  margin: 0rem 5.65rem 7.8rem 5.55rem;
+  width: calc(100% - 11.2rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.thumbnail-LfN .frame-5-AiG .vienna-awaits-unleash-your-wanderlust-in-austrias-vibrant-capital-668 {
+  margin-bottom: 3.1rem;
+  max-width: 115.9rem;
+  text-align: center;
+  font-size: 6.8rem;
+  font-weight: 400;
+  line-height: 1.445;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.thumbnail-LfN .frame-5-AiG .indulge-in-viennas-allure-explore-magnificent-architecture-delightful-cafs-and-captivating-history-your-unforgettable-journey-starts-here-ZkQ {
+  max-width: 72.5rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.445;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.thumbnail-LfN .frame-6-RXi {
+  margin: 0rem 49.1rem 10.8rem 52.3rem;
+  width: calc(100% - 101.4rem);
+  height: 6.8rem;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.445;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fa461f;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.thumbnail-LfN .frame-11-fS4 {
+  width: 100%;
+  height: 24.5rem;
+  display: flex;
+  column-gap: 2.2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.thumbnail-LfN .frame-11-fS4 .frame-8-QeY {
+  box-sizing: border-box;
+  padding: 2.7rem 3.067rem 2.9rem 4.3rem;
+  width: 40.9rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  background-color: rgba(212, 212, 212, 0.200000003);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.thumbnail-LfN .frame-11-fS4 .frame-8-QeY .auto-group-qzcq-uji {
+  margin-bottom: 1.8rem;
+  width: 100%;
+  height: 13.1rem;
+  display: flex;
+  align-items: flex-start;
+}
+.thumbnail-LfN .frame-11-fS4 .frame-8-QeY .auto-group-qzcq-uji .frame-9-3L8 {
+  margin-right: 0.8667rem;
+  width: 30rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.thumbnail-LfN .frame-11-fS4 .frame-8-QeY .auto-group-qzcq-uji .frame-9-3L8 .audio-guide-nHi {
+  margin-bottom: 1.4rem;
+  width: 100%;
+  text-align: center;
+  font-size: 2.8rem;
+  font-weight: 500;
+  line-height: 1.445;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.thumbnail-LfN .frame-11-fS4 .frame-8-QeY .auto-group-qzcq-uji .frame-9-3L8 .travel-on-your-own-with-the-help-of-an-audio-guide-uNL {
+  max-width: 30rem;
+  font-size: 2.6rem;
+  font-weight: 400;
+  line-height: 1.445;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+}
+.thumbnail-LfN .frame-11-fS4 .frame-8-QeY .auto-group-qzcq-uji .iconamoon-headphone-pVJ {
+  margin-top: 0.8rem;
+  width: 2.6667rem;
+  height: 2.5333rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.thumbnail-LfN .frame-11-fS4 .frame-8-QeY .frame-10-YgC {
+  margin-right: 18.7333rem;
+  height: 4rem;
+  font-size: 2.6rem;
+  font-weight: 500;
+  line-height: 1.445;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  border-bottom: solid 0.2rem #fa461f;
+  box-sizing: border-box;
+}
+.thumbnail-LfN .frame-11-fS4 .frame-9-25a {
+  box-sizing: border-box;
+  padding: 2.7rem 2.914rem 2.9rem 4.3rem;
+  width: 40.9rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(212, 212, 212, 0.200000003);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.thumbnail-LfN .frame-11-fS4 .frame-9-25a .auto-group-qc4t-LMA {
+  margin-bottom: 1.8rem;
+  width: 100%;
+  height: 13.1rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.thumbnail-LfN .frame-11-fS4 .frame-9-25a .auto-group-qc4t-LMA .frame-9-4Y4 {
+  margin-right: 3.5143rem;
+  width: 27.2rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.thumbnail-LfN .frame-11-fS4 .frame-9-25a .auto-group-qc4t-LMA .frame-9-4Y4 .programs-pGL {
+  margin-bottom: 1.4rem;
+  width: 100%;
+  text-align: center;
+  font-size: 2.8rem;
+  font-weight: 500;
+  line-height: 1.445;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.thumbnail-LfN .frame-11-fS4 .frame-9-25a .auto-group-qc4t-LMA .frame-9-4Y4 .choose-a-travel-program-that-is-right-for-you-w64 {
+  max-width: 27.2rem;
+  font-size: 2.6rem;
+  font-weight: 400;
+  line-height: 1.445;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+}
+.thumbnail-LfN .frame-11-fS4 .frame-9-25a .auto-group-qc4t-LMA .streamline-programming-script-2-language-programming-code-4Ag {
+  margin-top: 0.5143rem;
+  width: 2.9714rem;
+  height: 2.9714rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.thumbnail-LfN .frame-11-fS4 .frame-9-25a .frame-10-mqn {
+  margin-right: 16.1857rem;
+  height: 4rem;
+  font-size: 2.6rem;
+  font-weight: 500;
+  line-height: 1.445;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  border-bottom: solid 0.2rem #fa461f;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.thumbnail-LfN .frame-11-fS4 .frame-10-eeg {
+  box-sizing: border-box;
+  padding: 2.7rem 3.067rem 2.9rem 4.3rem;
+  width: 40.9rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  background-color: rgba(212, 212, 212, 0.200000003);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.thumbnail-LfN .frame-11-fS4 .frame-10-eeg .auto-group-ms3v-yBA {
+  margin-bottom: 1.8rem;
+  width: 100%;
+  height: 13.1rem;
+  display: flex;
+  align-items: flex-start;
+}
+.thumbnail-LfN .frame-11-fS4 .frame-10-eeg .auto-group-ms3v-yBA .frame-9-v6Q {
+  margin-right: 0.8667rem;
+  width: 30rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.thumbnail-LfN .frame-11-fS4 .frame-10-eeg .auto-group-ms3v-yBA .frame-9-v6Q .hotels-and-restaurant-UNp {
+  margin-bottom: 1.4rem;
+  width: 100%;
+  text-align: center;
+  font-size: 2.8rem;
+  font-weight: 500;
+  line-height: 1.445;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.thumbnail-LfN .frame-11-fS4 .frame-10-eeg .auto-group-ms3v-yBA .frame-9-v6Q .book-hotels-and-restaurants-at-th-best-price-agk {
+  max-width: 30rem;
+  font-size: 2.6rem;
+  font-weight: 400;
+  line-height: 1.445;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+}
+.thumbnail-LfN .frame-11-fS4 .frame-10-eeg .auto-group-ms3v-yBA .ri-hotel-line-Jse {
+  margin-top: 0.8rem;
+  width: 2.6667rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.thumbnail-LfN .frame-11-fS4 .frame-10-eeg .frame-10-SDA {
+  width: 13.1rem;
+  height: 4rem;
+  font-size: 2.6rem;
+  font-weight: 500;
+  line-height: 1.445;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  border-bottom: solid 0.2rem #fa461f;
+  box-sizing: border-box;
+}

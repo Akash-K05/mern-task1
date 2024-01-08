@@ -1,0 +1,1795 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 151.2rem;
+}.frame-41-fSC {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.frame-41-fSC .auto-group-ycxt-h7z {
+  width: 100%;
+  height: 306.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-41-fSC .auto-group-ycxt-h7z .macbook-pro-14-1-mXA {
+  box-sizing: border-box;
+  padding: 3.1rem 12rem 29.7rem 12.1rem;
+  width: 151.2rem;
+  height: 131.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(0, 0, 0, 0.3700000048);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/macbook-pro-14-1-bg.png');
+}
+.frame-41-fSC .auto-group-ycxt-h7z .macbook-pro-14-1-mXA .frame-1-2CC {
+  margin-bottom: 12.9rem;
+  width: 100%;
+  height: 6.1rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-41-fSC .auto-group-ycxt-h7z .macbook-pro-14-1-mXA .frame-1-2CC .group-1-Xue {
+  margin-right: 59.2426rem;
+  width: 14.1574rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-41-fSC .auto-group-ycxt-h7z .macbook-pro-14-1-mXA .frame-1-2CC .group-1-Xue .elite-UK6 {
+  width: 4.9rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 1.3556rem;
+  font-size: 2.7111rem;
+  font-weight: 400;
+  line-height: 1.445;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-41-fSC .auto-group-ycxt-h7z .macbook-pro-14-1-mXA .frame-1-2CC .group-1-Xue .trips-qxG {
+  width: 9.3rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 4.8574rem;
+  top: 0;
+  font-size: 4.0667rem;
+  font-weight: 600;
+  line-height: 1.495;
+  color: #fa461f;
+  font-family: Kanit, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-41-fSC .auto-group-ycxt-h7z .macbook-pro-14-1-mXA .frame-1-2CC .frame-4-wEc {
+  margin: 0.8rem 0;
+  height: calc(100% - 1.6rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-41-fSC .auto-group-ycxt-h7z .macbook-pro-14-1-mXA .frame-1-2CC .frame-4-wEc .frame-2-s8G {
+  margin: 0.6rem 4.1rem 0.5rem 0rem;
+  height: calc(100% - 1.1rem);
+  display: flex;
+  column-gap: 3.8rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-41-fSC .auto-group-ycxt-h7z .macbook-pro-14-1-mXA .frame-1-2CC .frame-4-wEc .frame-2-s8G .home-Nqi {
+  font-size: 2.3rem;
+  font-weight: 400;
+  line-height: 1.445;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-41-fSC .auto-group-ycxt-h7z .macbook-pro-14-1-mXA .frame-1-2CC .frame-4-wEc .frame-2-s8G .search-uak {
+  font-size: 2.3rem;
+  font-weight: 400;
+  line-height: 1.445;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-41-fSC .auto-group-ycxt-h7z .macbook-pro-14-1-mXA .frame-1-2CC .frame-4-wEc .frame-2-s8G .guide-qzC {
+  font-size: 2.3rem;
+  font-weight: 400;
+  line-height: 1.445;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-41-fSC .auto-group-ycxt-h7z .macbook-pro-14-1-mXA .frame-1-2CC .frame-4-wEc .frame-2-s8G .blog-PVv {
+  font-size: 2.3rem;
+  font-weight: 400;
+  line-height: 1.445;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-41-fSC .auto-group-ycxt-h7z .macbook-pro-14-1-mXA .frame-1-2CC .frame-4-wEc .frame-3-Jsn {
+  width: 15.1rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  font-size: 2.3rem;
+  font-weight: 400;
+  line-height: 1.445;
+  color: #fa461f;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #fa461f;
+  box-sizing: border-box;
+  border-radius: 3.5rem;
+  flex-shrink: 0;
+}
+.frame-41-fSC .auto-group-ycxt-h7z .macbook-pro-14-1-mXA .frame-5-kDz {
+  margin: 0rem 5.65rem 7.8rem 5.55rem;
+  width: calc(100% - 11.2rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-41-fSC .auto-group-ycxt-h7z .macbook-pro-14-1-mXA .frame-5-kDz .vienna-awaits-unleash-your-wanderlust-in-austrias-vibrant-capital-4kU {
+  margin-bottom: 3.1rem;
+  max-width: 115.9rem;
+  text-align: center;
+  font-size: 6.8rem;
+  font-weight: 400;
+  line-height: 1.445;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.frame-41-fSC .auto-group-ycxt-h7z .macbook-pro-14-1-mXA .frame-5-kDz .indulge-in-viennas-allure-explore-magnificent-architecture-delightful-cafs-and-captivating-history-your-unforgettable-journey-starts-here-k7W {
+  max-width: 72.5rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.445;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.frame-41-fSC .auto-group-ycxt-h7z .macbook-pro-14-1-mXA .frame-6-ykx {
+  margin: 0rem 49.1rem 10.8rem 52.3rem;
+  width: calc(100% - 101.4rem);
+  height: 6.8rem;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.445;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fa461f;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.frame-41-fSC .auto-group-ycxt-h7z .macbook-pro-14-1-mXA .frame-11-1xY {
+  width: 100%;
+  height: 24.5rem;
+  display: flex;
+  column-gap: 2.2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-41-fSC .auto-group-ycxt-h7z .macbook-pro-14-1-mXA .frame-11-1xY .frame-8-YSg {
+  box-sizing: border-box;
+  padding: 2.7rem 3.067rem 2.9rem 4.3rem;
+  width: 40.9rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  background-color: rgba(212, 212, 212, 0.200000003);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.frame-41-fSC .auto-group-ycxt-h7z .macbook-pro-14-1-mXA .frame-11-1xY .frame-8-YSg .auto-group-t2fe-TZe {
+  margin-bottom: 1.8rem;
+  width: 100%;
+  height: 13.1rem;
+  display: flex;
+  align-items: flex-start;
+}
+.frame-41-fSC .auto-group-ycxt-h7z .macbook-pro-14-1-mXA .frame-11-1xY .frame-8-YSg .auto-group-t2fe-TZe .frame-9-Py6 {
+  margin-right: 0.8667rem;
+  width: 30rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.frame-41-fSC .auto-group-ycxt-h7z .macbook-pro-14-1-mXA .frame-11-1xY .frame-8-YSg .auto-group-t2fe-TZe .frame-9-Py6 .audio-guide-M9E {
+  margin-bottom: 1.4rem;
+  width: 100%;
+  text-align: center;
+  font-size: 2.8rem;
+  font-weight: 500;
+  line-height: 1.445;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-41-fSC .auto-group-ycxt-h7z .macbook-pro-14-1-mXA .frame-11-1xY .frame-8-YSg .auto-group-t2fe-TZe .frame-9-Py6 .travel-on-your-own-with-the-help-of-an-audio-guide-rrg {
+  max-width: 30rem;
+  font-size: 2.6rem;
+  font-weight: 400;
+  line-height: 1.445;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+}
+.frame-41-fSC .auto-group-ycxt-h7z .macbook-pro-14-1-mXA .frame-11-1xY .frame-8-YSg .auto-group-t2fe-TZe .iconamoon-headphone-MYY {
+  margin-top: 0.8rem;
+  width: 2.6667rem;
+  height: 2.5333rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-41-fSC .auto-group-ycxt-h7z .macbook-pro-14-1-mXA .frame-11-1xY .frame-8-YSg .frame-10-sWt {
+  margin-right: 18.7333rem;
+  height: 4rem;
+  font-size: 2.6rem;
+  font-weight: 500;
+  line-height: 1.445;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  border-bottom: solid 0.2rem #fa461f;
+  box-sizing: border-box;
+}
+.frame-41-fSC .auto-group-ycxt-h7z .macbook-pro-14-1-mXA .frame-11-1xY .frame-9-4bN {
+  box-sizing: border-box;
+  padding: 2.7rem 2.914rem 2.9rem 4.3rem;
+  width: 40.9rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(212, 212, 212, 0.200000003);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.frame-41-fSC .auto-group-ycxt-h7z .macbook-pro-14-1-mXA .frame-11-1xY .frame-9-4bN .auto-group-9g3n-yiL {
+  margin-bottom: 1.8rem;
+  width: 100%;
+  height: 13.1rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame-41-fSC .auto-group-ycxt-h7z .macbook-pro-14-1-mXA .frame-11-1xY .frame-9-4bN .auto-group-9g3n-yiL .frame-9-7pY {
+  margin-right: 3.5143rem;
+  width: 27.2rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.frame-41-fSC .auto-group-ycxt-h7z .macbook-pro-14-1-mXA .frame-11-1xY .frame-9-4bN .auto-group-9g3n-yiL .frame-9-7pY .programs-sHv {
+  margin-bottom: 1.4rem;
+  width: 100%;
+  text-align: center;
+  font-size: 2.8rem;
+  font-weight: 500;
+  line-height: 1.445;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-41-fSC .auto-group-ycxt-h7z .macbook-pro-14-1-mXA .frame-11-1xY .frame-9-4bN .auto-group-9g3n-yiL .frame-9-7pY .choose-a-travel-program-that-is-right-for-you-CLC {
+  max-width: 27.2rem;
+  font-size: 2.6rem;
+  font-weight: 400;
+  line-height: 1.445;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+}
+.frame-41-fSC .auto-group-ycxt-h7z .macbook-pro-14-1-mXA .frame-11-1xY .frame-9-4bN .auto-group-9g3n-yiL .streamline-programming-script-2-language-programming-code-ukQ {
+  margin-top: 0.5143rem;
+  width: 2.9714rem;
+  height: 2.9714rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-41-fSC .auto-group-ycxt-h7z .macbook-pro-14-1-mXA .frame-11-1xY .frame-9-4bN .frame-10-Rye {
+  margin-right: 16.1857rem;
+  height: 4rem;
+  font-size: 2.6rem;
+  font-weight: 500;
+  line-height: 1.445;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  border-bottom: solid 0.2rem #fa461f;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.frame-41-fSC .auto-group-ycxt-h7z .macbook-pro-14-1-mXA .frame-11-1xY .frame-10-WVJ {
+  box-sizing: border-box;
+  padding: 2.7rem 3.067rem 2.9rem 4.3rem;
+  width: 40.9rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  background-color: rgba(212, 212, 212, 0.200000003);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.frame-41-fSC .auto-group-ycxt-h7z .macbook-pro-14-1-mXA .frame-11-1xY .frame-10-WVJ .auto-group-h6ow-qXa {
+  margin-bottom: 1.8rem;
+  width: 100%;
+  height: 13.1rem;
+  display: flex;
+  align-items: flex-start;
+}
+.frame-41-fSC .auto-group-ycxt-h7z .macbook-pro-14-1-mXA .frame-11-1xY .frame-10-WVJ .auto-group-h6ow-qXa .frame-9-aVA {
+  margin-right: 0.8667rem;
+  width: 30rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.frame-41-fSC .auto-group-ycxt-h7z .macbook-pro-14-1-mXA .frame-11-1xY .frame-10-WVJ .auto-group-h6ow-qXa .frame-9-aVA .hotels-and-restaurant-vZ2 {
+  margin-bottom: 1.4rem;
+  width: 100%;
+  text-align: center;
+  font-size: 2.8rem;
+  font-weight: 500;
+  line-height: 1.445;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-41-fSC .auto-group-ycxt-h7z .macbook-pro-14-1-mXA .frame-11-1xY .frame-10-WVJ .auto-group-h6ow-qXa .frame-9-aVA .book-hotels-and-restaurants-at-th-best-price-F5W {
+  max-width: 30rem;
+  font-size: 2.6rem;
+  font-weight: 400;
+  line-height: 1.445;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+}
+.frame-41-fSC .auto-group-ycxt-h7z .macbook-pro-14-1-mXA .frame-11-1xY .frame-10-WVJ .auto-group-h6ow-qXa .ri-hotel-line-AiG {
+  margin-top: 0.8rem;
+  width: 2.6667rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-41-fSC .auto-group-ycxt-h7z .macbook-pro-14-1-mXA .frame-11-1xY .frame-10-WVJ .frame-10-6rp {
+  width: 13.1rem;
+  height: 4rem;
+  font-size: 2.6rem;
+  font-weight: 500;
+  line-height: 1.445;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  border-bottom: solid 0.2rem #fa461f;
+  box-sizing: border-box;
+}
+.frame-41-fSC .auto-group-ycxt-h7z .macbook-pro-14-2-Xx8 {
+  box-sizing: border-box;
+  padding: 12.2rem 11.9rem 25.3rem 12rem;
+  width: 151.2rem;
+  height: 179.2rem;
+  position: absolute;
+  left: 0;
+  top: 127.7rem;
+  overflow: hidden;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #141725;
+}
+.frame-41-fSC .auto-group-ycxt-h7z .macbook-pro-14-2-Xx8 .frame-24-RXi {
+  margin-bottom: 15.1rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-41-fSC .auto-group-ycxt-h7z .macbook-pro-14-2-Xx8 .frame-24-RXi .frame-23-BFz {
+  margin: 0rem 1.5rem 7.6rem 0rem;
+  width: calc(100% - 1.5rem);
+  height: 19rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame-41-fSC .auto-group-ycxt-h7z .macbook-pro-14-2-Xx8 .frame-24-RXi .frame-23-BFz .frame-13-684 {
+  margin-right: 39.9rem;
+  width: 44.2rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.frame-41-fSC .auto-group-ycxt-h7z .macbook-pro-14-2-Xx8 .frame-24-RXi .frame-23-BFz .frame-13-684 .frame-12-d7z {
+  margin-bottom: 0.4rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.frame-41-fSC .auto-group-ycxt-h7z .macbook-pro-14-2-Xx8 .frame-24-RXi .frame-23-BFz .frame-13-684 .frame-12-d7z .popular-mzt {
+  margin-right: 1.6rem;
+  font-size: 6.4rem;
+  font-weight: 500;
+  line-height: 1.445;
+  color: #fa461f;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-41-fSC .auto-group-ycxt-h7z .macbook-pro-14-2-Xx8 .frame-24-RXi .frame-23-BFz .frame-13-684 .frame-12-d7z .trips-by-urC {
+  font-size: 6.4rem;
+  font-weight: 500;
+  line-height: 1.445;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-41-fSC .auto-group-ycxt-h7z .macbook-pro-14-2-Xx8 .frame-24-RXi .frame-23-BFz .frame-13-684 .elitetrip-T72 {
+  font-size: 6.4rem;
+  font-weight: 500;
+  line-height: 1.445;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-41-fSC .auto-group-ycxt-h7z .macbook-pro-14-2-Xx8 .frame-24-RXi .frame-23-BFz .frame-22-oAt {
+  margin-bottom: 0.1rem;
+  box-sizing: border-box;
+  padding: 1.85rem 0rem 1.95rem 4rem;
+  border-left: solid 0.4rem #fa461f;
+  flex-shrink: 0;
+}
+.frame-41-fSC .auto-group-ycxt-h7z .macbook-pro-14-2-Xx8 .frame-24-RXi .frame-23-BFz .frame-22-oAt .our-greatest-guides-create-our-programs-each-individual-will-be-able-to-select-a-program-based-on-their-interests-and-budget-8yr {
+  max-width: 37.7rem;
+  font-size: 2.6rem;
+  font-weight: 400;
+  line-height: 1.445;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+}
+.frame-41-fSC .auto-group-ycxt-h7z .macbook-pro-14-2-Xx8 .frame-24-RXi .group-2-oaC {
+  width: 100%;
+  height: 93.2rem;
+  display: flex;
+  align-items: center;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.frame-41-fSC .auto-group-ycxt-h7z .macbook-pro-14-2-Xx8 .frame-24-RXi .group-2-oaC .auto-group-v1z6-Mbi {
+  margin-right: 2rem;
+  width: 41.1rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-41-fSC .auto-group-ycxt-h7z .macbook-pro-14-2-Xx8 .frame-24-RXi .group-2-oaC .auto-group-v1z6-Mbi .frame-15-t5r {
+  margin-bottom: 2.4rem;
+  width: 100%;
+  height: 32.8rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/frame-15-bg.png');
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.frame-41-fSC .auto-group-ycxt-h7z .macbook-pro-14-2-Xx8 .frame-24-RXi .group-2-oaC .auto-group-v1z6-Mbi .frame-16-zPn {
+  width: 100%;
+  height: 58rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/frame-16-bg.png');
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.frame-41-fSC .auto-group-ycxt-h7z .macbook-pro-14-2-Xx8 .frame-24-RXi .group-2-oaC .auto-group-cmsr-ume {
+  margin-right: 1.9rem;
+  width: 41.1rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-41-fSC .auto-group-ycxt-h7z .macbook-pro-14-2-Xx8 .frame-24-RXi .group-2-oaC .auto-group-cmsr-ume .frame-17-eUL {
+  margin-bottom: 2.4rem;
+  width: 100%;
+  height: 58rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/frame-17-bg.png');
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.frame-41-fSC .auto-group-ycxt-h7z .macbook-pro-14-2-Xx8 .frame-24-RXi .group-2-oaC .auto-group-cmsr-ume .frame-18-Aha {
+  width: 100%;
+  height: 32.8rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/frame-18-bg.png');
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.frame-41-fSC .auto-group-ycxt-h7z .macbook-pro-14-2-Xx8 .frame-24-RXi .group-2-oaC .auto-group-37me-hSc {
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-41-fSC .auto-group-ycxt-h7z .macbook-pro-14-2-Xx8 .frame-24-RXi .group-2-oaC .auto-group-37me-hSc .frame-20-Tgg {
+  margin: 0rem 0rem 2.4rem 0.1rem;
+  width: 41.1rem;
+  height: 32.8rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/frame-20-bg.png');
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.frame-41-fSC .auto-group-ycxt-h7z .macbook-pro-14-2-Xx8 .frame-24-RXi .group-2-oaC .auto-group-37me-hSc .frame-21-MGG {
+  margin-right: 0.1rem;
+  width: 41.1rem;
+  height: 58rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/frame-21-bg.png');
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.frame-41-fSC .auto-group-ycxt-h7z .macbook-pro-14-2-Xx8 .frame-6-rTv {
+  margin: 0rem 52.5rem 0rem 52.4rem;
+  width: calc(100% - 104.9rem);
+  height: 6.8rem;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.445;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fa461f;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.frame-41-fSC .auto-group-ycxt-h7z .frame-14-KMW {
+  width: 151.2rem;
+  height: 13.4rem;
+  position: absolute;
+  left: 0;
+  top: 120.5rem;
+  overflow: hidden;
+  filter: blur(6.25rem);
+  background: linear-gradient(180deg, #171929 -0%, #141725 100%);
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #141725;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a {
+  margin-bottom: 24.6rem;
+  width: 168.5rem;
+  height: 104.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-25-tJ8 {
+  box-sizing: border-box;
+  padding: 6.6rem 11.8rem;
+  width: 151.2rem;
+  height: 93.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  background-color: #191919;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-25-tJ8 .frame-27-czp {
+  width: 89.9rem;
+  height: 27.3rem;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-25-tJ8 .frame-27-czp .meet-your-certified-experienced-and-professional-travel-guide-who-will-take-you-to-your-ideal-destination-Nj6 {
+  margin-bottom: 2.8rem;
+  max-width: 89.9rem;
+  font-size: 5.2rem;
+  font-weight: 500;
+  line-height: 1.3452271682;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-25-tJ8 .frame-27-czp .view-additional-details-by-selecting-the-profile-card-Fnt {
+  font-size: 2.6rem;
+  font-weight: 400;
+  line-height: 1.3452271682;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-26-mWL {
+  box-sizing: border-box;
+  padding-bottom: 3.8rem;
+  width: 36.5rem;
+  height: 62.4rem;
+  position: absolute;
+  left: 12rem;
+  top: 41.8rem;
+  overflow: hidden;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-26-mWL .auto-group-qosl-spG {
+  margin-bottom: 2rem;
+  width: 100%;
+  height: 30.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-26-mWL .auto-group-qosl-spG .frame-28-pDi {
+  width: 40.8rem;
+  height: 27.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  background-color: #732020;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/frame-28-bg-U4U.png');
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-26-mWL .auto-group-qosl-spG .ellipse-1-jrU {
+  width: 6.5rem;
+  height: 6.5rem;
+  position: absolute;
+  left: 4.1rem;
+  top: 24.3rem;
+  background-color: #ffffff;
+  border-radius: 3.25rem;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-26-mWL .auto-group-qosl-spG .ellipse-2-sBz {
+  width: 4.7rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 5rem;
+  top: 25.2rem;
+  background-color: #d9d9d9;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-2-bg-ahr.png');
+  border-radius: 2.35rem;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-26-mWL .frame-33-yF2 {
+  margin-right: 6.9rem;
+  width: 25.6rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-26-mWL .frame-33-yF2 .auto-group-qfzl-WVr {
+  box-sizing: border-box;
+  padding-bottom: 1.9rem;
+  width: 100%;
+  row-gap: 1.9rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-26-mWL .frame-33-yF2 .auto-group-qfzl-WVr .mr-nas-morales-r3v {
+  font-size: 2.8rem;
+  font-weight: 500;
+  line-height: 1.3452272415;
+  color: #000000;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-26-mWL .frame-33-yF2 .auto-group-qfzl-WVr .frame-29-b1W {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-26-mWL .frame-33-yF2 .auto-group-qfzl-WVr .frame-29-b1W .experience-MWU {
+  margin-bottom: 0.7rem;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.3452273051;
+  color: #8a8a8a;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-26-mWL .frame-33-yF2 .auto-group-qfzl-WVr .frame-29-b1W .years-tWQ {
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.3452272415;
+  color: #000000;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-26-mWL .frame-33-yF2 .auto-group-qfzl-WVr .frame-30-dD6 {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-26-mWL .frame-33-yF2 .auto-group-qfzl-WVr .frame-30-dD6 .specialization-PTA {
+  margin-bottom: 0.7rem;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.3452273051;
+  color: #8a8a8a;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-26-mWL .frame-33-yF2 .auto-group-qfzl-WVr .frame-30-dD6 .north-america-XZN {
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.3452272415;
+  color: #000000;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-26-mWL .frame-33-yF2 .group-3-GWx {
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-26-mWL .frame-33-yF2 .group-3-GWx .frame-32-Rue {
+  margin: 0rem 2.6rem 0.1rem 0rem;
+  width: 15.2rem;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-26-mWL .frame-33-yF2 .group-3-GWx .frame-32-Rue .rating-mCp {
+  margin-bottom: 0.7rem;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.3452273051;
+  color: #8a8a8a;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-26-mWL .frame-33-yF2 .group-3-GWx .frame-32-Rue .frame-31-WRJ {
+  box-sizing: border-box;
+  padding: 0.2rem 0.2rem 0.3rem 0.2rem;
+  width: 100%;
+  display: flex;
+  column-gap: 1.2rem;
+  align-items: center;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-26-mWL .frame-33-yF2 .group-3-GWx .frame-32-Rue .frame-31-WRJ .ic-baseline-star-pwn {
+  width: 2rem;
+  height: 1.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-26-mWL .frame-33-yF2 .group-3-GWx .frame-32-Rue .frame-31-WRJ .ic-baseline-star-yZn {
+  width: 2rem;
+  height: 1.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-26-mWL .frame-33-yF2 .group-3-GWx .frame-32-Rue .frame-31-WRJ .ic-baseline-star-vV2 {
+  width: 2rem;
+  height: 1.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-26-mWL .frame-33-yF2 .group-3-GWx .frame-32-Rue .frame-31-WRJ .ic-baseline-star-G36 {
+  width: 2rem;
+  height: 1.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-26-mWL .frame-33-yF2 .group-3-GWx .frame-32-Rue .frame-31-WRJ .ic-baseline-star-p4c {
+  width: 2rem;
+  height: 1.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-26-mWL .frame-33-yF2 .group-3-GWx .item-48-5--9sa {
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.3452272415;
+  color: #000000;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-27-U9A {
+  box-sizing: border-box;
+  padding-bottom: 3.8rem;
+  width: 36.5rem;
+  height: 62.4rem;
+  position: absolute;
+  left: 52rem;
+  top: 41.8rem;
+  overflow: hidden;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-27-U9A .auto-group-tapc-nQk {
+  margin-bottom: 2rem;
+  width: 100%;
+  height: 30.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-27-U9A .auto-group-tapc-nQk .frame-28-KvU {
+  width: 40.8rem;
+  height: 27.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  background-color: #732020;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/frame-28-bg.png');
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-27-U9A .auto-group-tapc-nQk .ellipse-1-rfW {
+  width: 6.5rem;
+  height: 6.5rem;
+  position: absolute;
+  left: 4.1rem;
+  top: 24.3rem;
+  background-color: #ffffff;
+  border-radius: 3.25rem;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-27-U9A .auto-group-tapc-nQk .ellipse-2-Aw6 {
+  width: 4.7rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 5rem;
+  top: 25.2rem;
+  background-color: #d9d9d9;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-2-bg-Vtg.png');
+  border-radius: 2.35rem;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-27-U9A .frame-33-Eg4 {
+  margin-right: 7.1rem;
+  width: 25.4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-27-U9A .frame-33-Eg4 .auto-group-dsn8-9Y8 {
+  box-sizing: border-box;
+  padding-bottom: 1.9rem;
+  width: 100%;
+  row-gap: 1.9rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-27-U9A .frame-33-Eg4 .auto-group-dsn8-9Y8 .mrs-juliana-jules-HPS {
+  font-size: 2.8rem;
+  font-weight: 500;
+  line-height: 1.3452272415;
+  color: #000000;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-27-U9A .frame-33-Eg4 .auto-group-dsn8-9Y8 .frame-29-DH6 {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-27-U9A .frame-33-Eg4 .auto-group-dsn8-9Y8 .frame-29-DH6 .experience-aNY {
+  margin-bottom: 0.7rem;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.3452273051;
+  color: #8a8a8a;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-27-U9A .frame-33-Eg4 .auto-group-dsn8-9Y8 .frame-29-DH6 .years-X2t {
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.3452272415;
+  color: #000000;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-27-U9A .frame-33-Eg4 .auto-group-dsn8-9Y8 .frame-30-Tx8 {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-27-U9A .frame-33-Eg4 .auto-group-dsn8-9Y8 .frame-30-Tx8 .specialization-zx4 {
+  margin-bottom: 0.7rem;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.3452273051;
+  color: #8a8a8a;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-27-U9A .frame-33-Eg4 .auto-group-dsn8-9Y8 .frame-30-Tx8 .south-america-Xh6 {
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.3452272415;
+  color: #000000;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-27-U9A .frame-33-Eg4 .group-3-GPn {
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-27-U9A .frame-33-Eg4 .group-3-GPn .frame-32-cyS {
+  margin: 0rem 2.6rem 0.1rem 0rem;
+  width: 15.2rem;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-27-U9A .frame-33-Eg4 .group-3-GPn .frame-32-cyS .rating-AVA {
+  margin-bottom: 0.7rem;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.3452273051;
+  color: #8a8a8a;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-27-U9A .frame-33-Eg4 .group-3-GPn .frame-32-cyS .frame-31-VXS {
+  box-sizing: border-box;
+  padding: 0.2rem 0.2rem 0.3rem 0.2rem;
+  width: 100%;
+  display: flex;
+  column-gap: 1.2rem;
+  align-items: center;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-27-U9A .frame-33-Eg4 .group-3-GPn .frame-32-cyS .frame-31-VXS .ic-baseline-star-oo2 {
+  width: 2rem;
+  height: 1.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-27-U9A .frame-33-Eg4 .group-3-GPn .frame-32-cyS .frame-31-VXS .ic-baseline-star-Ykc {
+  width: 2rem;
+  height: 1.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-27-U9A .frame-33-Eg4 .group-3-GPn .frame-32-cyS .frame-31-VXS .ic-baseline-star-Hy6 {
+  width: 2rem;
+  height: 1.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-27-U9A .frame-33-Eg4 .group-3-GPn .frame-32-cyS .frame-31-VXS .ic-baseline-star-eHr {
+  width: 2rem;
+  height: 1.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-27-U9A .frame-33-Eg4 .group-3-GPn .frame-32-cyS .frame-31-VXS .ic-baseline-star-nur {
+  width: 2rem;
+  height: 1.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-27-U9A .frame-33-Eg4 .group-3-GPn .item-48-5--jaC {
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.3452272415;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-28-FYY {
+  box-sizing: border-box;
+  padding-bottom: 3.8rem;
+  width: 36.5rem;
+  height: 62.4rem;
+  position: absolute;
+  left: 92rem;
+  top: 41.8rem;
+  overflow: hidden;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-28-FYY .auto-group-5xh6-51n {
+  margin-bottom: 2rem;
+  width: 100%;
+  height: 30.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-28-FYY .auto-group-5xh6-51n .frame-28-1w2 {
+  width: 40.8rem;
+  height: 27.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  background-color: #732020;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/frame-28-bg-732.png');
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-28-FYY .auto-group-5xh6-51n .ellipse-1-YRA {
+  width: 6.5rem;
+  height: 6.5rem;
+  position: absolute;
+  left: 4.1rem;
+  top: 24.3rem;
+  background-color: #ffffff;
+  border-radius: 3.25rem;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-28-FYY .auto-group-5xh6-51n .ellipse-2-GMA {
+  width: 4.7rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 5rem;
+  top: 25.2rem;
+  background-color: #d9d9d9;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-2-bg.png');
+  border-radius: 2.35rem;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-28-FYY .frame-33-N9J {
+  margin-right: 6.9rem;
+  width: 25.6rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-28-FYY .frame-33-N9J .auto-group-91sa-7Mn {
+  box-sizing: border-box;
+  padding-bottom: 1.9rem;
+  width: 100%;
+  row-gap: 1.9rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-28-FYY .frame-33-N9J .auto-group-91sa-7Mn .mr-adebayo-ali-FTz {
+  font-size: 2.8rem;
+  font-weight: 500;
+  line-height: 1.3452272415;
+  color: #000000;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-28-FYY .frame-33-N9J .auto-group-91sa-7Mn .frame-29-zRa {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-28-FYY .frame-33-N9J .auto-group-91sa-7Mn .frame-29-zRa .experience-xNQ {
+  margin-bottom: 0.7rem;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.3452273051;
+  color: #8a8a8a;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-28-FYY .frame-33-N9J .auto-group-91sa-7Mn .frame-29-zRa .years-uHe {
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.3452272415;
+  color: #000000;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-28-FYY .frame-33-N9J .auto-group-91sa-7Mn .frame-30-rCt {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-28-FYY .frame-33-N9J .auto-group-91sa-7Mn .frame-30-rCt .specialization-DJL {
+  margin-bottom: 0.7rem;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.3452273051;
+  color: #8a8a8a;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-28-FYY .frame-33-N9J .auto-group-91sa-7Mn .frame-30-rCt .africa-xFv {
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.3452272415;
+  color: #000000;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-28-FYY .frame-33-N9J .group-3-uS4 {
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-28-FYY .frame-33-N9J .group-3-uS4 .frame-32-sNt {
+  margin: 0rem 2.6rem 0.1rem 0rem;
+  width: 15.2rem;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-28-FYY .frame-33-N9J .group-3-uS4 .frame-32-sNt .rating-DBr {
+  margin-bottom: 0.7rem;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.3452273051;
+  color: #8a8a8a;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-28-FYY .frame-33-N9J .group-3-uS4 .frame-32-sNt .frame-31-Mor {
+  box-sizing: border-box;
+  padding: 0.2rem 0.2rem 0.3rem 0.2rem;
+  width: 100%;
+  display: flex;
+  column-gap: 1.2rem;
+  align-items: center;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-28-FYY .frame-33-N9J .group-3-uS4 .frame-32-sNt .frame-31-Mor .ic-baseline-star-g5S {
+  width: 2rem;
+  height: 1.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-28-FYY .frame-33-N9J .group-3-uS4 .frame-32-sNt .frame-31-Mor .ic-baseline-star-phS {
+  width: 2rem;
+  height: 1.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-28-FYY .frame-33-N9J .group-3-uS4 .frame-32-sNt .frame-31-Mor .ic-baseline-star-yaL {
+  width: 2rem;
+  height: 1.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-28-FYY .frame-33-N9J .group-3-uS4 .frame-32-sNt .frame-31-Mor .ic-baseline-star-8TE {
+  width: 2rem;
+  height: 1.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-28-FYY .frame-33-N9J .group-3-uS4 .frame-32-sNt .frame-31-Mor .ic-baseline-star-57a {
+  width: 2rem;
+  height: 1.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-28-FYY .frame-33-N9J .group-3-uS4 .item-49-5--22p {
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.3452272415;
+  color: #000000;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-29-jT2 {
+  box-sizing: border-box;
+  padding-bottom: 3.8rem;
+  width: 36.5rem;
+  height: 62.4rem;
+  position: absolute;
+  left: 132rem;
+  top: 41.8rem;
+  overflow: hidden;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-29-jT2 .auto-group-shdw-r1r {
+  margin-bottom: 2rem;
+  width: 100%;
+  height: 30.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-29-jT2 .auto-group-shdw-r1r .frame-28-aTe {
+  width: 40.8rem;
+  height: 27.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  background-color: #732020;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/frame-28-bg-EJY.png');
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-29-jT2 .auto-group-shdw-r1r .ellipse-1-W6Q {
+  width: 6.5rem;
+  height: 6.5rem;
+  position: absolute;
+  left: 4.1rem;
+  top: 24.3rem;
+  background-color: #ffffff;
+  border-radius: 3.25rem;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-29-jT2 .auto-group-shdw-r1r .ellipse-2-qPa {
+  width: 4.7rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 5rem;
+  top: 25.2rem;
+  background-color: #d9d9d9;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-2-bg-k5A.png');
+  border-radius: 2.35rem;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-29-jT2 .frame-33-whW {
+  margin-right: 7.1rem;
+  width: 25.4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-29-jT2 .frame-33-whW .auto-group-easq-HmN {
+  box-sizing: border-box;
+  padding-bottom: 1.9rem;
+  width: 100%;
+  row-gap: 1.9rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-29-jT2 .frame-33-whW .auto-group-easq-HmN .mr-chun-xiae-2U4 {
+  font-size: 2.8rem;
+  font-weight: 500;
+  line-height: 1.3452272415;
+  color: #000000;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-29-jT2 .frame-33-whW .auto-group-easq-HmN .frame-29-Zit {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-29-jT2 .frame-33-whW .auto-group-easq-HmN .frame-29-Zit .experience-vpL {
+  margin-bottom: 0.7rem;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.3452273051;
+  color: #8a8a8a;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-29-jT2 .frame-33-whW .auto-group-easq-HmN .frame-29-Zit .years-UL4 {
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.3452272415;
+  color: #000000;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-29-jT2 .frame-33-whW .auto-group-easq-HmN .frame-30-26g {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-29-jT2 .frame-33-whW .auto-group-easq-HmN .frame-30-26g .specialization-b9n {
+  margin-bottom: 0.7rem;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.3452273051;
+  color: #8a8a8a;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-29-jT2 .frame-33-whW .auto-group-easq-HmN .frame-30-26g .asia-8fW {
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.3452272415;
+  color: #000000;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-29-jT2 .frame-33-whW .group-3-UUU {
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-29-jT2 .frame-33-whW .group-3-UUU .frame-32-qZv {
+  margin: 0rem 2.6rem 0.1rem 0rem;
+  width: 15.2rem;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-29-jT2 .frame-33-whW .group-3-UUU .frame-32-qZv .rating-P5e {
+  margin-bottom: 0.7rem;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.3452273051;
+  color: #8a8a8a;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-29-jT2 .frame-33-whW .group-3-UUU .frame-32-qZv .frame-31-Kzt {
+  box-sizing: border-box;
+  padding: 0.2rem 0.2rem 0.3rem 0.2rem;
+  width: 100%;
+  display: flex;
+  column-gap: 1.2rem;
+  align-items: center;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-29-jT2 .frame-33-whW .group-3-UUU .frame-32-qZv .frame-31-Kzt .ic-baseline-star-FNk {
+  width: 2rem;
+  height: 1.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-29-jT2 .frame-33-whW .group-3-UUU .frame-32-qZv .frame-31-Kzt .ic-baseline-star-QFe {
+  width: 2rem;
+  height: 1.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-29-jT2 .frame-33-whW .group-3-UUU .frame-32-qZv .frame-31-Kzt .ic-baseline-star-Z8Y {
+  width: 2rem;
+  height: 1.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-29-jT2 .frame-33-whW .group-3-UUU .frame-32-qZv .frame-31-Kzt .ic-baseline-star-Jrp {
+  width: 2rem;
+  height: 1.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-29-jT2 .frame-33-whW .group-3-UUU .frame-32-qZv .frame-31-Kzt .ic-baseline-star-fhN {
+  width: 2rem;
+  height: 1.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-gymj-x9a .frame-29-jT2 .frame-33-whW .group-3-UUU .item-48-5--ChJ {
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.3452272415;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .frame-34-7ZN {
+  margin: 0rem 60rem 3.7rem 60rem;
+  width: calc(100% - 120rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .frame-34-7ZN .customer-rG4 {
+  margin-right: 1.5rem;
+  font-size: 4.8rem;
+  font-weight: 500;
+  line-height: 1.3452272415;
+  color: #fa461f;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .frame-34-7ZN .says-CKv {
+  font-size: 4.8rem;
+  font-weight: 500;
+  line-height: 1.3452272415;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .frame-35-jKr {
+  box-sizing: border-box;
+  padding: 16.3rem 12.5rem 16.3rem 17.9rem;
+  width: 100%;
+  height: 71.8rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .frame-35-jKr .frame-36-TWk {
+  margin-right: 8.9rem;
+  width: 36.8rem;
+  height: 39.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .frame-35-jKr .auto-group-asse-BxY {
+  margin: 1.7rem 0rem 3.4rem 0rem;
+  width: 75.1rem;
+  height: calc(100% - 5.1rem);
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .frame-35-jKr .auto-group-asse-BxY .group-4-JnG {
+  margin-bottom: 9.5rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .frame-35-jKr .auto-group-asse-BxY .group-4-JnG .item--4Fe {
+  margin: 0rem 1.6rem 3.5rem 0rem;
+  font-size: 9.6rem;
+  font-weight: 500;
+  line-height: 1.445;
+  color: #000000;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .frame-35-jKr .auto-group-asse-BxY .group-4-JnG .elitetrip-went-above-and-beyond-my-expectations-with-their-excellent-service-and-attention-to-detail-my-trip-was-made-unforgettable-by-their-knowledge-and-specific-recommendations-strongly-recommended-Zy6 {
+  margin-top: 3.5rem;
+  max-width: 68.6rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.445;
+  color: #000000;
+  font-family: Jost, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .frame-35-jKr .auto-group-asse-BxY .frame-37-DGx {
+  display: flex;
+  flex-direction: column;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .frame-35-jKr .auto-group-asse-BxY .frame-37-DGx .alexander-brock-adJ {
+  margin-bottom: 0.8rem;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.445;
+  color: #000000;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .frame-35-jKr .auto-group-asse-BxY .frame-37-DGx .influencer-traveler-7t8 {
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.445;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-yfgx-q3S {
+  box-sizing: border-box;
+  padding: 19.4rem 12rem 3.1rem 12.1rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-yfgx-q3S .frame-40-xdr {
+  margin: 0rem 19.3rem 20.1rem 19.1rem;
+  width: calc(100% - 38.4rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-yfgx-q3S .frame-40-xdr .frame-39-Hw2 {
+  margin-bottom: 6.4rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-yfgx-q3S .frame-40-xdr .frame-39-Hw2 .frame-38-3fJ {
+  margin-bottom: 4.9rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-yfgx-q3S .frame-40-xdr .frame-39-Hw2 .frame-38-3fJ .any-questions--QVr {
+  margin-bottom: 0.9rem;
+  font-size: 6.4rem;
+  font-weight: 500;
+  line-height: 1.445;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-yfgx-q3S .frame-40-xdr .frame-39-Hw2 .frame-38-3fJ .lets-make-your-dream-happen-9TS {
+  font-size: 6.4rem;
+  font-weight: 500;
+  line-height: 1.445;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-yfgx-q3S .frame-40-xdr .frame-39-Hw2 .buy-a-cup-of-coffee-have-a-seat-and-chat-with-us-about-your-next-big-journey-UEp {
+  margin-right: 3rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.445;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-yfgx-q3S .frame-40-xdr .frame-6-nFW {
+  margin: 0 33.5rem;
+  width: calc(100% - 67rem);
+  height: 6.8rem;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.445;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fa461f;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-yfgx-q3S .frame-1-f4Q {
+  width: 100%;
+  height: 6.1rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-yfgx-q3S .frame-1-f4Q .group-1-Qng {
+  margin-right: 59.2426rem;
+  width: 14.1574rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-yfgx-q3S .frame-1-f4Q .group-1-Qng .elite-MC8 {
+  width: 4.9rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 1.3556rem;
+  font-size: 2.7111rem;
+  font-weight: 400;
+  line-height: 1.445;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-yfgx-q3S .frame-1-f4Q .group-1-Qng .trips-FoJ {
+  width: 9.3rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 4.8574rem;
+  top: 0;
+  font-size: 4.0667rem;
+  font-weight: 600;
+  line-height: 1.495;
+  color: #fa461f;
+  font-family: Kanit, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-yfgx-q3S .frame-1-f4Q .frame-4-xxc {
+  margin: 0.8rem 0;
+  height: calc(100% - 1.6rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-yfgx-q3S .frame-1-f4Q .frame-4-xxc .frame-2-WUL {
+  margin: 0.6rem 4.1rem 0.5rem 0rem;
+  height: calc(100% - 1.1rem);
+  display: flex;
+  column-gap: 3.8rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-yfgx-q3S .frame-1-f4Q .frame-4-xxc .frame-2-WUL .home-2Bn {
+  font-size: 2.3rem;
+  font-weight: 400;
+  line-height: 1.445;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-yfgx-q3S .frame-1-f4Q .frame-4-xxc .frame-2-WUL .search-NFe {
+  font-size: 2.3rem;
+  font-weight: 400;
+  line-height: 1.445;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-yfgx-q3S .frame-1-f4Q .frame-4-xxc .frame-2-WUL .guide-7U8 {
+  font-size: 2.3rem;
+  font-weight: 400;
+  line-height: 1.445;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-yfgx-q3S .frame-1-f4Q .frame-4-xxc .frame-2-WUL .blog-Tnt {
+  font-size: 2.3rem;
+  font-weight: 400;
+  line-height: 1.445;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-41-fSC .macbook-pro-14-3-Cw6 .auto-group-yfgx-q3S .frame-1-f4Q .frame-4-xxc .frame-3-Qi8 {
+  width: 15.1rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  font-size: 2.3rem;
+  font-weight: 400;
+  line-height: 1.445;
+  color: #fa461f;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #fa461f;
+  box-sizing: border-box;
+  border-radius: 3.5rem;
+  flex-shrink: 0;
+}
